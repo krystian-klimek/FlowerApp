@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlowerApp</string>
+    <string name="stop_downloading">Stop downloading</string>
+</resources>
